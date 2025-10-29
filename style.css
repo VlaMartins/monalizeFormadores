@@ -59,6 +59,9 @@ main{
 a{
     margin: 1em;
     padding: 1em;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Verdana;
 }
 
 footer{
