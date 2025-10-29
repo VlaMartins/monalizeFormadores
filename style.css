@@ -10,6 +10,11 @@ header{
     font-family: sans-serif;
 }
 
+header p{
+    max-width: 50%;
+    text-align: center;
+}
+
 .img-foto{
     border-radius: 5px;
     margin: auto;
