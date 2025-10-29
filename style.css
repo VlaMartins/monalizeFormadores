@@ -21,7 +21,6 @@ header{
     border-radius: 8px;
 }
 
-
 .img-foto{
     border-radius: 5px;
     margin: auto;
@@ -61,6 +60,7 @@ a{
     margin: 1em;
     padding: 1em;
 }
+
 footer{
     max-width: 90%;
     font-family: sans-serif;
