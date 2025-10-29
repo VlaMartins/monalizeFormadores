@@ -30,8 +30,13 @@ header{
     background-color: rgb(43, 42, 42);
 }
 
+
+h2{
+    padding: 10px;
+}
+
 h3{
-    margin: 30px;
+    padding: 20px;
 }
 
 header p{
