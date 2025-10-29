@@ -57,6 +57,10 @@ main{
     border-radius: 8px;
 }
 
+a{
+    margin: 2em;
+    padding: 1em;
+}
 footer{
     max-width: 90%;
     font-family: sans-serif;
