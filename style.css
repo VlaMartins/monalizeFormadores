@@ -54,6 +54,7 @@ main{
     margin: 20px;
     background-color: rgba(19, 19, 19, 0.89);
     border-radius: 8px;
+    line-height: 2.0;
 }
 
 a{
