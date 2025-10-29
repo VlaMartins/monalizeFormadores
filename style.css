@@ -37,4 +37,6 @@ footer{
     width: 100%;
     font-family: sans-serif;
     text-align: center;
+    padding: 30px;
+    background-color: rgba(21, 21, 21, 0.89);
 }
