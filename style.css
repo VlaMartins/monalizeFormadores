@@ -67,6 +67,10 @@ a{
     font-style: italic;
 }
 
+h2{
+    line-height: 2em;
+}
+
 footer{
     max-width: 90%;
     font-family: sans-serif;
@@ -76,3 +80,4 @@ footer{
     background-color: rgba(19, 19, 19, 0.89);
     border-radius: 8px;
 }
+
