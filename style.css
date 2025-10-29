@@ -18,3 +18,9 @@ header{
     background-color: rgb(43, 42, 42);
 }
 
+footer{
+    header{
+    width: 100%;
+    font-family: sans-serif;
+    text-align: center;
+}
