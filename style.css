@@ -3,7 +3,7 @@ body{
     color: whitesmoke;
     font-size: 18px;
     line-height: 1.5;
-
+    max-width: 80%;;
 }
 
 .img-foto{
@@ -13,3 +13,4 @@ body{
     padding: 10px;
     background-color: rgb(43, 42, 42);
 }
+
