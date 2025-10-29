@@ -14,11 +14,11 @@ header{
 
 header p{
     text-align: justify;
-    width: 80%;
+    width: 90%;
     display: flex;
     justify-content: center;
     margin: 0 auto;
-    padding: 20px;
+    padding: 10px;
 }
 
 .img-foto{
