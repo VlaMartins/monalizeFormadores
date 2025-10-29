@@ -9,8 +9,8 @@ body{
 header{
     max-width: 90%;
     font-family: sans-serif;
-    padding-left: 20px;
-    margin-left: 20px;
+    padding: 20px;
+    margin: 20px;
     background-color: rgba(44, 44, 44, 0.89);
 }
 
