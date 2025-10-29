@@ -38,5 +38,6 @@ footer{
     font-family: sans-serif;
     text-align: center;
     padding: 30px;
+    margin: 20px;
     background-color: rgba(44, 44, 44, 0.89);
 }
