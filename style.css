@@ -11,7 +11,7 @@ header{
 }
 
 header p{
-    text-align: center;
+    text-align: justify;
     width: 80%;
     display: flex;
     justify-content: center;
