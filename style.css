@@ -53,6 +53,7 @@ span{
 
 main{
     max-width: 90%;
+    text-align: justify;
     font-family: sans-serif;
     padding: 30px;
     margin: 20px;
@@ -63,6 +64,7 @@ main{
 footer{
     max-width: 90%;
     font-family: sans-serif;
+    text-align: left;
     padding: 30px;
     margin: 20px;
     background-color: rgba(19, 19, 19, 0.89);
