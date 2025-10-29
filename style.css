@@ -11,8 +11,8 @@ header{
 }
 
 header p{
-    max-width: 80%;
     text-align: center;
+    width: 80%;
     display: flex;
     justify-content: center;
 }
