@@ -12,6 +12,7 @@ header{
     padding: 20px;
     margin: 20px;
     background-color: rgba(44, 44, 44, 0.89);
+    border-radius: 8px;
 }
 
 header p{
