@@ -3,9 +3,12 @@ body{
     color: whitesmoke;
     font-size: 18px;
     line-height: 1.5;
-    max-width: 80%;;
 }
 
+header{
+        max-width: 70%;
+        text-align: center;
+}
 .img-foto{
     border-radius: 5px;
     margin: auto;
