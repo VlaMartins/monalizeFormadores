@@ -8,12 +8,13 @@ body{
 header{
     max-width: 100%;
     font-family: sans-serif;
-    /* justify-content: center; */
 }
 
 header p{
-    max-width: 50%;
+    max-width: 70%;
     text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 .img-foto{
