@@ -21,6 +21,9 @@ header{
     border-radius: 8px;
 }
 
+h3{
+    margin: 30px;
+}
 header p{
     text-align: justify;
     width: 90%;
