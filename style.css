@@ -71,8 +71,8 @@ h2{
     background-color: rgb(43, 42, 42);
 }
 
-span a {
-    border: solid gray;
+button {
+    border: none;
     background-color: aquamarine;
     border-radius: 6px;
     margin: 20px;
