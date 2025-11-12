@@ -68,22 +68,22 @@ h2{
 }
 
 a{
-   
     text-decoration: none;
     text-align: center;
     font-size: 16px;
     font-family: Verdana;
     color: white;
-    font-style: italic;
+
 
 }
 
 .p_link{
     border: solid gray;
     border-radius: 6px;
-    margin: 20px;
-    padding: 1em;
+    margin: 15px;
+    padding: 0.5em;
     width: 250px;
+        font-style: italic;
 }
 
 
