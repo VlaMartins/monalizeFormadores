@@ -39,7 +39,6 @@ body{
 }
 
 main{
-    display : flex;
     max-width: 90%;
     text-align: justify;
     font-family: sans-serif;
@@ -48,6 +47,10 @@ main{
     background-color: rgba(19, 19, 19, 0.89);
     border-radius: 8px;
     line-height: 2.0;
+}
+
+section{
+        display : flex;
 }
 
 div {
