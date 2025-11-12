@@ -73,6 +73,7 @@ h2{
 
 span a {
     border: solid gray;
+    background-color: aquamarine;
     border-radius: 6px;
     margin: 20px;
     padding: 1em;
