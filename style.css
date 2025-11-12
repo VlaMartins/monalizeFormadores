@@ -78,7 +78,7 @@ a{
     color: white;
 }
 
-.p_link{
+p, a{
     border: solid gray;
     border-radius: 6px;
     margin: 15px;
