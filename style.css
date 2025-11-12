@@ -71,7 +71,7 @@ h2{
     background-color: rgb(43, 42, 42);
 }
 
-.botao{
+span a {
     border: solid gray;
     border-radius: 6px;
     margin: 20px;
