@@ -3,15 +3,6 @@
     padding: 0;
 }
 
-body{
-    background-color: black;
-    color: whitesmoke;
-    font-size: 18px;
-    line-height: 1.5;
-    font-family: sans-serif;
-    text-align: center;
-}
-
 header{
     max-width: 90%;
     font-family: sans-serif;
@@ -19,14 +10,6 @@ header{
     margin: 20px;
     background-color: rgba(19, 19, 19, 0.89);
     border-radius: 8px;
-}
-
-.img-foto{
-    border-radius: 5px;
-    margin: auto;
-    display: flex;
-    padding: 10px;
-    background-color: rgb(43, 42, 42);
 }
 
 header p{
@@ -46,6 +29,15 @@ span{
     margin-top: 20px;
 }
 
+body{
+    background-color: black;
+    color: whitesmoke;
+    font-size: 18px;
+    line-height: 1.5;
+    font-family: sans-serif;
+    text-align: center;
+}
+
 main{
     max-width: 90%;
     text-align: justify;
@@ -55,6 +47,25 @@ main{
     background-color: rgba(19, 19, 19, 0.89);
     border-radius: 8px;
     line-height: 2.0;
+}
+
+div {
+  border: 1px black solid;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px;
+}
+
+h2{
+    line-height: 2em;
+}
+ 
+.img-foto{
+    border-radius: 5px;
+    margin: auto;
+    display: flex;
+    padding: 10px;
+    background-color: rgb(43, 42, 42);
 }
 
 a{
@@ -67,9 +78,6 @@ a{
     font-style: italic;
 }
 
-h2{
-    line-height: 2em;
-}
 
 footer{
     max-width: 90%;
