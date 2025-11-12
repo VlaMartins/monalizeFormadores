@@ -68,16 +68,21 @@ h2{
 }
 
 a{
-    margin: 20px;
-    padding: 1em;
+   
     text-decoration: none;
     text-align: center;
     font-size: 18px;
     font-family: Verdana;
     color: white;
     font-style: italic;
+
+}
+
+.p_link{
     border: solid gray;
     border-radius: 6px;
+    margin: 20px;
+    padding: 1em;
 }
 
 
