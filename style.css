@@ -71,23 +71,22 @@ h2{
     background-color: rgb(43, 42, 42);
 }
 
+.p_link{
+    border: solid gray;
+    border-radius: 6px;
+    margin: 10px;
+    padding: 0.5em;
+    width: 250px;
+    text-align: center;
+}
+
 a{
     text-decoration: none;
     font-size: 16px;
     font-family: Verdana;
     color: white;
+    justify-content: center;
 }
-
-p, a{
-    border: solid gray;
-    border-radius: 6px;
-    margin: 15px;
-    padding: 0.5em;
-    width: 250px;
-    font-style: italic;
-    text-align: center;
-}
-
 
 footer{
     max-width: 90%;
