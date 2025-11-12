@@ -50,8 +50,8 @@ main{
 }
 
 div {
-  border: 1px rgb(245, 220, 109) solid;
-  border-radius: 5px;
+  /* border: 1px rgb(245, 220, 109) solid;
+  border-radius: 5px; */
   padding: 5px;
   margin: 10px;
 }
