@@ -69,12 +69,9 @@ h2{
 
 a{
     text-decoration: none;
-    text-align: center;
     font-size: 16px;
     font-family: Verdana;
     color: white;
-
-
 }
 
 .p_link{
@@ -83,7 +80,8 @@ a{
     margin: 15px;
     padding: 0.5em;
     width: 250px;
-        font-style: italic;
+    font-style: italic;
+    text-align: center;
 }
 
 
