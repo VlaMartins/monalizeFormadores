@@ -57,6 +57,7 @@ section{
 div {
   padding: 5px;
   margin: 10px;
+  max-width: 40%;
 }
 
 h2{
