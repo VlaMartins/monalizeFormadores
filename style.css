@@ -131,13 +131,13 @@ header p{
     justify-content: center;
     margin: 0;
     padding: 5px;
-}
+}*/
 
 .habilidades{
     display: block;     /* faz o span ocupar toda a linha */
-    /* margin: 0px;    /* remove o espaço lateral */
-    /* margin-bottom: 5px; */ */
-/*} */
+     margin: 0px;    /* remove o espaço lateral */
+     margin-bottom: 5px; */ */
+}
 
 
 }
