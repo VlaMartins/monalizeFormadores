@@ -105,10 +105,37 @@ div{
 
 @media (max-width: 768px) {
   /* Estilos aplicados a telas com largura até 768px (como tablets e celulares) */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    max-width: 100%;
+    font-family: sans-serif;
+    padding: 5px;
+    margin: 5px;
+    background-color: rgba(19, 19, 19, 0.89);
+    border-radius: 5px;
+}
+
+header p{
+    text-align: justify;
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 5px;
+}
 
 .habilidades{
     display: block;     /* faz o span ocupar toda a linha */
     margin-right: 0;    /* remove o espaço lateral */
     margin-bottom: 8px;
 }
+
+
+
+
+
 }
