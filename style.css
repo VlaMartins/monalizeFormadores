@@ -109,7 +109,7 @@ div{
     margin: 0;
     padding: 0;
 }
-
+/*
 body{
     margin: 0;
     padding: 0;
@@ -135,8 +135,8 @@ header p{
 
 .habilidades{
     display: block;     /* faz o span ocupar toda a linha */
-    margin: 0;    /* remove o espaço lateral */
-    margin-bottom: 5px;
+    /* margin: 0px;    /* remove o espaço lateral */
+    /* margin-bottom: 5px; */ */
 }
 
 
