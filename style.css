@@ -114,6 +114,7 @@ body{
     margin: 0;
     padding: 0;
 }
+
 header{
     max-width: 100%;
     font-family: sans-serif;
@@ -134,8 +135,8 @@ header p{
 
 .habilidades{
     display: block;     /* faz o span ocupar toda a linha */
-    margin-right: 0;    /* remove o espaço lateral */
-    margin-bottom: 8px;
+    margin: 0;    /* remove o espaço lateral */
+    margin-bottom: 5px;
 }
 
 
