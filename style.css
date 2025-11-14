@@ -110,6 +110,10 @@ div{
     padding: 0;
 }
 
+body{
+    margin: 0;
+    padding: 0;
+}
 header{
     max-width: 100%;
     font-family: sans-serif;
